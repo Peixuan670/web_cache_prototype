@@ -1,4 +1,4 @@
-# Web Cache Simulator
+# Web Cache Prototype
 
 This project is forked from [dasebe/webtracereplay](https://github.com/dasebe/webtracereplay), [Daniel S. Berger](https://www.cs.cmu.edu/~dberger1/)
 
