@@ -10,7 +10,7 @@ There are three components:
  - the server: the cache proxy server which you are trying to benchmark, e.g., nginx, Varnish, Apache TS, etc. And your own cache policy.
  - the origin: which emulates a database or storage server, the backend server be cached by proxy server
 
-Please reference to the original author's project [AdaptSize project](https://github.com/dasebe/AdaptSize), see [References](#references) for more information.
+Please reference to the original author's project [AdaptSize project](https://github.com/dasebe/AdaptSize), see [References](#references) for more information .
 
 
 ## Experiment Set Up
