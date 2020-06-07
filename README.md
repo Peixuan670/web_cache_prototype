@@ -12,6 +12,7 @@ There are three components:
 
 Please reference to the original author's project [AdaptSize project](https://github.com/dasebe/AdaptSize), see [References](#references) for more information .
 
+![avatar](./architecture.jpg)
 
 ## Experiment Set Up
 
